@@ -1,6 +1,6 @@
 # Hi, I'm Vishal Sharma 👋
 
-Results-driven **Software Engineer** with 2+ years of experience building high-performance applications in **C++ and Qt** for UNIX/Linux environments. I specialize in **Telecom** and **Automotive Infotainment** systems, with a strong foundation in multithreading, IPC, and network protocols.
+Results-driven **Software Engineer** with 3+ years of experience building high-performance applications in **C++ and Qt** for UNIX/Linux environments. I specialize in **Telecom** and **Automotive Infotainment** systems, with a strong foundation in multithreading, IPC, and network protocols.
 
 ---
 
